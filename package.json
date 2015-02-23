@@ -1,0 +1,22 @@
+{
+  "name": "fetch-products-n-offers",
+  "version": "1.0.0",
+  "description": "A simple script to fetch products and offers from semantics3 database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n4nagappan/fetch-products-n-offers.git"
+  },
+  "author": "Nagappan Nachiappan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n4nagappan/fetch-products-n-offers/issues"
+  },
+  "homepage": "https://github.com/n4nagappan/fetch-products-n-offers",
+  "dependencies": {
+    "semantics3-node": "0.0.1"
+  }
+}
